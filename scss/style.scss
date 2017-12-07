@@ -1,0 +1,49 @@
+.centrediv{
+	display:flex;
+	justify-content:center;
+	align-items:center;
+}
+
+.wrapper{
+	text-align:center;
+	font-family: Roboto, sans-serif;
+	background-color:#3b3b3b;
+	color:#ababab;
+	min-height:900px;
+}
+
+.datapoint{
+	padding:5px;
+	font-size:2em;
+}
+
+.button{
+	margin-top:20px;
+	border-radius:15px;
+	background-color:#DCB273;
+	color:#3b3b3b;
+}
+
+#icon{
+	height:120px;
+}
+
+#conditions{
+	
+}
+
+#description{
+	
+}
+
+#temperature{
+	
+}
+
+#minTemp{
+	
+}
+
+#maxTemp{
+	
+}
